@@ -1,0 +1,17 @@
+D:\Apps\ASP\OracleCRUD\API\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Apps\ASP\OracleCRUD\API\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Apps\ASP\OracleCRUD\API\bin\Debug\netcoreapp2.1\API.deps.json
+D:\Apps\ASP\OracleCRUD\API\bin\Debug\netcoreapp2.1\API.runtimeconfig.json
+D:\Apps\ASP\OracleCRUD\API\bin\Debug\netcoreapp2.1\API.runtimeconfig.dev.json
+D:\Apps\ASP\OracleCRUD\API\bin\Debug\netcoreapp2.1\API.dll
+D:\Apps\ASP\OracleCRUD\API\bin\Debug\netcoreapp2.1\API.pdb
+D:\Apps\ASP\OracleCRUD\API\obj\Debug\netcoreapp2.1\API.csprojAssemblyReference.cache
+D:\Apps\ASP\OracleCRUD\API\obj\Debug\netcoreapp2.1\API.AssemblyInfoInputs.cache
+D:\Apps\ASP\OracleCRUD\API\obj\Debug\netcoreapp2.1\API.AssemblyInfo.cs
+D:\Apps\ASP\OracleCRUD\API\obj\Debug\netcoreapp2.1\API.csproj.CoreCompileInputs.cache
+D:\Apps\ASP\OracleCRUD\API\obj\Debug\netcoreapp2.1\API.RazorAssemblyInfo.cache
+D:\Apps\ASP\OracleCRUD\API\obj\Debug\netcoreapp2.1\API.RazorAssemblyInfo.cs
+D:\Apps\ASP\OracleCRUD\API\obj\Debug\netcoreapp2.1\API.RazorTargetAssemblyInfo.cache
+D:\Apps\ASP\OracleCRUD\API\obj\Debug\netcoreapp2.1\API.dll
+D:\Apps\ASP\OracleCRUD\API\obj\Debug\netcoreapp2.1\API.pdb
+D:\Apps\ASP\OracleCRUD\API\obj\Debug\netcoreapp2.1\API.genruntimeconfig.cache
